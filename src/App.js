@@ -59,6 +59,10 @@ function App() {
           aoNovoColaboradorAdicionado(colaborador)
         }
       />
+   <div style={{ textAlign: 'center' }}>
+  <h4 className="organizacao">Minha Organização:</h4>
+</div>
+
       {times.map((time) => (
         <Time
           key={time.nome}
