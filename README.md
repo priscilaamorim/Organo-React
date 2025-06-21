@@ -1,29 +1,64 @@
-# Organo
+# 🚀 Organo – Sistema de Cadastro de Colaboradores
 
-Projeto desenvolvido durante o curso de React da Alura, com o objetivo de aprender os principais conceitos do React criando uma aplicação de cadastro de colaboradores organizados por times.
+Projeto desenvolvido no curso de React da Alura, com o objetivo de aplicar os principais conceitos da biblioteca criando uma aplicação interativa para cadastro e organização de colaboradores por times, com funcionalidades como customização de cores e favoritos.
 
-## 📋 Pré-requisitos
-- Node.js instalado (versão 14 ou superior)
-- npm ou yarn (gerenciador de pacotes)
+---
 
+## 🧩 Funcionalidades
 
-## 🚀 Tecnologias utilizadas
+* ✅ Cadastro de novos colaboradores
+* ✅ Criação de novos times
+* ✅ Seleção dinâmica de times
+* ✅ Alteração da cor dos times via input color
+* ✅ Remoção de colaboradores
+* ✅ Favoritar/desfavoritar colaboradores com ícone interativo
+* ✅ Layout responsivo com estilização modular em CSS
 
-- React
-- JavaScript (ES6+)
-- HTML5 e CSS3
-- Vite (ou Create React App, dependendo do setup)
-- Git e GitHub
+---
 
-## 📚 Conceitos aprendidos
+## 🧠 Conceitos e Aprendizados
 
-- Componentização com React
-- Props e comunicação entre componentes
-- Estado (useState)
-- Listas e renderização condicional
-- Estilização com CSS
-- Eventos e formulários controlados
-- Boas práticas com JSX e fragmentos
-- Debugging com DevTools e `debugger`
-- Organização de arquivos e pastas em projetos React
+* Componentização e reuso com React
+* Props e comunicação unidirecional entre componentes
+* Gerenciamento de estado com `useState`
+* Eventos e formulários controlados
+* Renderização condicional e manipulação de listas
+* Estilização modular com CSS e classes dinâmicas
+* Ícones com `react-icons`
+* Boas práticas com JSX e refatoração de componentes
+* Responsividade com `flex-wrap` e `gap`
 
+---
+
+## ⚒️ Tecnologias Utilizadas
+
+* React (com Hooks)
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* React Icons
+* Vite (ou Create React App)
+* Git & GitHub
+
+---
+
+## ⚙️ Pré-requisitos
+
+Antes de iniciar, certifique-se de ter:
+
+* Node.js (versão 14 ou superior)
+* npm ou yarn instalados
+
+Para rodar o projeto localmente:
+
+```bash
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
+---
+
+## 🧑‍🏫 Créditos
+
+Projeto baseado no curso **React: desenvolvendo com JavaScript** da [Alura](https://www.alura.com.br).
