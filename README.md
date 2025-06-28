@@ -36,7 +36,7 @@ Projeto desenvolvido no curso de React da Alura, com o objetivo de aplicar os pr
 * JavaScript (ES6+)
 * HTML5 & CSS3
 * React Icons
-* Vite (ou Create React App)
+* Create React App
 * Git & GitHub
 
 ---
